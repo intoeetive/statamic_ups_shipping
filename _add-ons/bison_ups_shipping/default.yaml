@@ -1,0 +1,14 @@
+live_mode: false
+
+ups_access_key: ""
+ups_login: ""
+ups_password: ""
+
+default_service_code: "03"
+
+sender_name: ""
+sender_zip: ""
+sender_address: ""
+sender_city: ""
+sender_state_code: ""
+sender_country_code: US
